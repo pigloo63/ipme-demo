@@ -22,4 +22,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: pigloo63/ipme-demo:latest
+          tags: ghcr.io/pigloo63/ipme-demo:latest
